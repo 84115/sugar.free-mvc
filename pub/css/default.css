@@ -1,0 +1,39 @@
+/* Reset */
+*{font-family:inherit;font-weight:inherit;font-style:inherit;font-size:100%;outline:0;padding:0;margin:0;border:0;list-style:none;text-decoration:none;}
+
+/* Generic */
+
+/* Typography */
+h1,h2,h3,h4,h5,h6{
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1{font-size:270%;}
+h2{font-size:240%;}
+h3{font-size:210%;}
+h4{font-size:190%;}
+h5{font-size:160%;}
+h6{font-size:130%;}
+p{font-size:100%;padding:0 0 15px 0;}
+span.small{font-size:50%;color:#aaa;}
+
+/* Tables */
+
+/* Layout */
+
+/* etc */
+
+/* Header */
+div#header{
+	background:#ccc;
+}
+
+/* Content */
+div#content{
+	background:#ddd;
+}
+
+/* Footer */
+div#footer{
+	background:#eee;
+}

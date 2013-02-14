@@ -1,0 +1,11 @@
+
+"[API] [getFeed] [".$_SERVER['REMOTE_ADDR']."] incoming request"
+strtoupper('['.strrev(substr(strrev(__CLASS__),6)).'] ['.__FUNCTION__.'] ['.$_SERVER['REMOTE_ADDR'].']')
+
+
+
+[01-23-2013 11:36pm] [API] [getUser] [::1] incoming request
+[01-24-2013 12:10am] [API] [getUser] [::1] incoming request
+[01-24-2013 12:10am] [API] [getUser] [::1] incoming request
+[01-24-2013 12:10am] [API] [getUser] [::1] incoming request
+[01-24-2013 12:10am] [API] [getUser] [::1] incoming request
